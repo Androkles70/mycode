@@ -2,5 +2,5 @@
 
 2.password managing: encrypted. store in a local database or file and let users add, delete, update. will check expiration date reminders, strength check
 
-3.file organizer TBC 
+3.file organizer 
 
