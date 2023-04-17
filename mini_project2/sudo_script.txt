@@ -1,0 +1,7 @@
+RPG theme: haunted house
+
+implement Labyrinth by using the rooms list/dict model to create a maze since the MC will be trapped in the house until solving all  the Riddles and Puzzles in the house to escape
+
+one Riddle in the first room
+one puzzle in the one after
+and a puzzle in the last
