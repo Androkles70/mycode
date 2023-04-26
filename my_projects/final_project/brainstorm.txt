@@ -1,6 +1,3 @@
-1.game or music (haven't decided wich yet) recommendation based on preferencesand use collabortive filtering or content based filtering. possibly implimenting  web scrapin?
+3.file organizer: organize files in a directory based on type. automatically moves files to folders. add feature to  backup, rename, and delete duplications
 
-2.password managing: encrypted. store in a local database or file and let users add, delete, update. will check expiration date reminders, strength check
-
-3.file organizer 
-
+ 
